@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Account" />
+    <item
+        android:id="@+id/nav_Playlists"
+        android:icon="@android:drawable/presence_audio_busy"
+        android:title="Playlists" />
+    <item
+        android:id="@+id/nav_Artist"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:title="Artist" />
+    <item
+        android:id="@+id/nav_Equlaizer"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Equlaizer" />
+    <item
+        android:id="@+id/nav_Settings"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Settings" />
+    <item
+        android:id="@+id/Albums"
+        android:icon="@android:drawable/ic_menu_slideshow"
+        android:title="Albums" />
+    <item
+        android:id="@+id/Sounnd_Effect"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:title="Soound_Effect" />
+    <item
+        android:id="@+id/nav_Exit"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Exit" />
+
+</menu>

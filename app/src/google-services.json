@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "490963381157",
+    "firebase_url": "https://playlist-2010f.firebaseio.com",
+    "project_id": "playlist-2010f",
+    "storage_bucket": "playlist-2010f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490963381157:android:ee7d41655c44c8bf",
+        "android_client_info": {
+          "package_name": "com.example.masud.mmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490963381157-3me2aheag8lbg67t05i455vna2ctr28r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQ7jXu6OTo5B7mkLewaJ-EJIUw6kLe7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
